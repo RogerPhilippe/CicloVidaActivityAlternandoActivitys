@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CicloVidaActivity(AlternandoActivitys)</string>
+    <string name="btn_activity_main">Ir Segunda Activity</string>
+    <string name="lbl_seg_activity">Segunda Activity</string>
+</resources>
